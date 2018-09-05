@@ -53,6 +53,8 @@ main {
 }
 
 .course .title {
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .course .descrition {
