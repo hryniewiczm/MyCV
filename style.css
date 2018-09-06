@@ -53,6 +53,10 @@ main section:not(:last-child) {
   border-bottom: 1rem;
 }
 
+i {
+  font-size: 25px;
+}
+
 .course {
   display: flex;
   flex-wrap: wrap;
